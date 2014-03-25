@@ -1,0 +1,3 @@
+RewriteBase /css/
+RewriteEngine On
+RewriteRule ^style.css$ css.php [N]
